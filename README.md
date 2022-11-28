@@ -1,2 +1,3 @@
 # E-Commerce-Database
 A database modelled after an E-Commerce company 
+E-commerce, also known as electronic commerce or internet commerce, refers to buying and selling goods or services using the internet and transferring money and data to execute these transactions. A few of the largest E-commerce companies include Amazon. Shopify, and Alibaba. All these companies have to deal with large amounts of data related to customers, products, merchants, inventories, and more. A well-structured database powers e-commerce and manages all the interactions within the system. They can use their database to keep track of sales and inventory and derive meaningful information to improve profit margins. 
